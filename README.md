@@ -1,3 +1,3 @@
-# automation-saucedemo-exercise
+# saucedemo-automation-exercise
 
 Edn-To-End testing scenario
